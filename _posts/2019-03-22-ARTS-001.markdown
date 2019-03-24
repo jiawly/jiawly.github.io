@@ -100,6 +100,7 @@ categories: ARTS
         res += word.length();
         return res;
     }   
+    
     ``` 
 * ### Review
     * [bitcoin](https://bitcoin.org/bitcoin.pdf)
