@@ -19,6 +19,7 @@ categories: ARTS
         * fill the next part
         * the last line and the others use different strategies to fill the blank
     * code
+    
     ```
     public List<String> fullJustify(String[] words, int maxWidth) {
         return firstJustify(words, new ArrayList<>(), maxWidth, 0);
